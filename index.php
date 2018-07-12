@@ -2,12 +2,13 @@
 <html>
 	<head>
 		<meta charset="UTF-8">
+		<link rel="stylesheet" href="joe.css">
 		<title>
 			Joe's favorite concert venues
 		</title>
 	</head>
 	<body>
-		<img src="joe.jpg" alt="Joe's photo" width="150" height="150">
+		<img src="joe.jpg" alt="Joe's photo" class="joe-photo">
 		<ul>
 		<li>Name : Joe </li>
 		<li>Age : 52</li>
